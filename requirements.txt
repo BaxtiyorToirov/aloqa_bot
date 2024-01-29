@@ -1,0 +1,5 @@
+aiogram
+python
+asyncio
+logging
+psycopg2
